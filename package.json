@@ -1,0 +1,44 @@
+{
+  "_from": "git+https://github.com/Instabug/instabug-cordova.git",
+  "_id": "instabug-cordova@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-geFwJERbm8e6bI8013iv34NPdFQ=",
+  "_location": "/instabug-cordova",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "com.instabug.cordova.plugin@https://github.com/Instabug/instabug-cordova",
+    "name": "com.instabug.cordova.plugin",
+    "escapedName": "com.instabug.cordova.plugin",
+    "rawSpec": "https://github.com/Instabug/instabug-cordova",
+    "saveSpec": "git+https://github.com/Instabug/instabug-cordova.git",
+    "fetchSpec": "https://github.com/Instabug/instabug-cordova.git",
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/Instabug/instabug-cordova.git#3cefdc0e95bd3063c2c9c0dc1241fc5de6bbf1d4",
+  "_spec": "com.instabug.cordova.plugin@https://github.com/Instabug/instabug-cordova",
+  "_where": "/Users/harim/Develop/gasolinup_app/node_modules",
+  "author": {
+    "name": "Instabug",
+    "email": "https://instabug.com"
+  },
+  "bugs": {
+    "url": "https://github.com/Instabug/instabug-cordova/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "The purpose of this plugin is to simplify the process of integrating the Instabug SDK in a hybrid application, as well as to provide an interface to interfacing with the SDK through JavaScript.",
+  "homepage": "https://github.com/Instabug/instabug-cordova#readme",
+  "license": "Apache 2.0 License",
+  "main": "index.js",
+  "name": "instabug-cordova",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Instabug/instabug-cordova.git"
+  },
+  "version": "1.0.0"
+}
